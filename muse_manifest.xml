@@ -1,0 +1,75 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="artzone.com" resolutions="1x" timestamp="1469293880683">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-interior.css" crc="530266945" ref="services:index:contact-us:about-us"/>
+    <file name="services.css" crc="4248310333" ref="services"/>
+    <file name="index.css" crc="191246696" ref="index"/>
+    <file name="contact-us.css" crc="21378881" ref="contact-us"/>
+    <file name="about-us.css" crc="3986700713" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>about-us:phone>services:phone>contact-us:tablet>index:tablet>about-us:tablet>services:tablet>contact-us:about-us:services:contact-us:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>about-us:phone>services:phone>contact-us:tablet>index:tablet>about-us:tablet>services:tablet>contact-us:about-us:services:contact-us:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>about-us:phone>services:phone>contact-us:tablet>index:tablet>about-us:tablet>services:tablet>contact-us:about-us:services:contact-us:index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>about-us:tablet>services:tablet>contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="about-us:index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="about-us:services:index"/>
+    <file name="pie.js" crc="3827607177" ref="about-us:contact-us:index"/>
+    <file name="webpro.js" crc="3803554875" ref="services:contact-us"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="services"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="services"/>
+    <file name="touchswipe.js" crc="4038331989" ref="services"/>
+    <file name="form_check.php" crc="277267350" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact-us"/>
+    <file name="form_process.php" crc="24249335" ref="contact-us"/>
+    <file name="form-u323.php" crc="4076095692" ref="contact-us"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fhhj9vv.jpg" crc="3926677289" seo="true" ref="about-us:services"/>
+    <file name="u491-6.png" crc="4208654107" ref="about-us"/>
+    <file name="img_20150812_185328.jpg" crc="450928678" seo="true" ref="about-us"/>
+    <file name="u518-9.png" crc="183481689" ref="about-us"/>
+    <file name="u519-9.png" crc="183481689" ref="about-us"/>
+    <file name="u520-9.png" crc="183481689" ref="about-us"/>
+    <file name="blank.gif" crc="4208392903" ref="services"/>
+    <file name="artist-paint-brush-and-paint-brush-art-paintbrush-artistic-artist-painter-tool.jpg" crc="4177022596" seo="true" ref="services"/>
+    <file name="the_avengers_2012___symbol_of_hope-wallpaper-1920x1080.jpg" crc="147420322" seo="true" ref="services"/>
+    <file name="loading.gif" crc="3815509949" ref="services"/>
+    <file name="u335-17.png" crc="466432247" ref="contact-us"/>
+    <file name="u335-17-r.png" crc="3841364708" ref="contact-us"/>
+    <file name="u335-17-m.png" crc="4221689977" ref="contact-us"/>
+    <file name="u335-17-fs.png" crc="4032364858" ref="contact-us"/>
+    <file name="campus818901.jpg" crc="3823473666" ref="index"/>
+    <file name="artzone_logo.png" crc="162489793" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="about-us.css" crc="3964970448" ref="tablet>about-us"/>
+      <file name="services.css" crc="3964970448" ref="tablet>services"/>
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+      <file name="contact-us.css" crc="3929500838" ref="tablet>contact-us"/>
+    </folder>
+    <file name="index.html" crc="224840741" seo="true" mt="1468774601926" redirect="false"/>
+    <file name="about-us.html" crc="4187081638" seo="true" mt="1467866795566" redirect="false"/>
+    <file name="services.html" crc="3781190022" seo="true" mt="1467866795566" redirect="false"/>
+    <file name="contact-us.html" crc="4009999741" seo="true" mt="1467866795567" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="about-us.css" crc="4107295331" ref="phone>about-us"/>
+      <file name="services.css" crc="4107295331" ref="phone>services"/>
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+      <file name="contact-us.css" crc="188941168" ref="phone>contact-us"/>
+    </folder>
+    <file name="index.html" crc="210975899" seo="true" mt="1468774601927" redirect="false"/>
+    <file name="about-us.html" crc="209767725" seo="true" mt="1467866795408" redirect="false"/>
+    <file name="services.html" crc="3802809374" seo="true" mt="1467866795485" redirect="false"/>
+    <file name="contact-us.html" crc="4160343307" seo="true" mt="1467866795537" redirect="false"/>
+  </folder>
+  <file name="about-us.html" crc="344755083" seo="true" mt="1468780497604" redirect="true"/>
+  <file name="services.html" crc="432388032" seo="true" mt="1468780497630" redirect="true"/>
+  <file name="contact-us.html" crc="3979706293" seo="true" mt="1468780497651" redirect="true"/>
+  <file name="index.html" crc="246034312" seo="true" mt="1468939237952" redirect="true"/>
+</manifest>
